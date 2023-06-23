@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "name": "coffee-shop-website-master",
+  "description": "Do not put real info into this website. I do not sell anything or make any profit from this project.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
